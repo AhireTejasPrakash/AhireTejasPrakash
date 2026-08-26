@@ -155,25 +155,7 @@ Worked on AI data preparation and evaluation tasks supporting
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AhireTejasPrakash&show_icons=true&theme=tokyonight&hide_border=true" alt="Tejas's GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhireTejasPrakash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhireTejasPrakash&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-
-</div>
 ## 📫 Connect With Me
 
 <div align="center">
