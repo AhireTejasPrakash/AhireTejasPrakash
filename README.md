@@ -135,17 +135,7 @@ Leaflet · REST APIs
 
 ## 📊 GitHub Statistics
 
-<div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhireTejasPrakash&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhireTejasPrakash&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhireTejasPrakash&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
